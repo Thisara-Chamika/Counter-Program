@@ -51,13 +51,26 @@ body {
     transform: translateY(-1px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
+.button1:active {
+    background-color: rgb(10, 166, 10);
+}
+
+
 .button2:hover {
     background-color: rgb(164, 26, 26);
     transform: translateY(-1px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
+.button2:active {
+    background-color: rgb(210, 35, 35);
+}
+
+
 .button3:hover {
     background-color: rgb(32, 32, 148);
     transform: translateY(-1px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+.button3:active {
+    background-color:rgb(46, 46, 192);
 }
